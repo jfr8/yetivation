@@ -29,9 +29,9 @@
 
 <script>
 import Swiper, { Pagination, Navigation } from "swiper";
-import "swiper/swiper.css";
-import "swiper/modules/navigation/navigation.min.css";
-import "swiper/modules/pagination/pagination.min.css";
+import "/node_modules/swiper/swiper.css";
+import "/node_modules/swiper/modules/navigation/navigation.min.css";
+import "/node_modules/swiper/modules/pagination/pagination.min.css";
 
 export default {
   props: ["title", "quotes", "image"],
