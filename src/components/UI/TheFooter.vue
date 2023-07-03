@@ -8,14 +8,14 @@
 footer {
   width: 100%;
   height: 5rem;
-  background-color: #ffffff;
+  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 footer span {
-  color: black;
+  color: white;
   margin: 0;
 }
 </style>

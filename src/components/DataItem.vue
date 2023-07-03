@@ -130,6 +130,14 @@ li {
   bottom: -3px;
 }
 
+.swipper-dots {
+  padding: 11px;
+}
+
+.swiper-wrapper {
+  padding-left: 10px
+}
+
 header {
   display: flex;
   justify-content: space-between;
